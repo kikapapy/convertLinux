@@ -1,0 +1,8 @@
+*.aps
+*.cd
+*.sdf
+*.suo
+*.opensdf
+*.bak
+
+build/
